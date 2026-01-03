@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#007ACC">Gunakar Challa</span></h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gunakarchalla&style=flat-square&color=0d6efd" alt="Profile views"/>
-  <a href="https://github.com/gunakarchalla?tab=followers">
-    <img src="https://img.shields.io/github/followers/gunakarchalla?&style=flat-square&label=Followers&logo=github&color=0d6efd"/>
-  </a>
   <a href="https://gunakarchalla.github.io/gunakarchalla/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/>
   </a>
