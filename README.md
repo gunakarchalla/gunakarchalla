@@ -105,4 +105,4 @@ Mein Schwerpunkt liegt an der Schnittstelle von **Enterprise-Integration**, **We
 
 ---
 
-*Mehr Details findest du in meinem [Lebenslauf](https://github.com/gunakarchalla/gunakarchalla/blob/main/Gunakar_Challa_Resume.pdf).* 
+*Mehr Details findest du in meinem [Lebenslauf](./Gunakar_Challa_Resume.pdf).* 
