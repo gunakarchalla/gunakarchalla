@@ -1,0 +1,53 @@
+GUNAKAR CHALLA                                                                                                        Permit : B
+                                                                                                             Address : Bern, CH
+LinkedIn : /gunakarchalla                                                                              Mobile : +41-795557687
+GitHub : /gunakarchalla                                                                        Email : gunakarchalla@gmail.com
+
+SKILLS
+Languages: TypeScript/JavaScript, Java, Python, C, C++, SQL     Libraries & Frameworks: React, Express, Spring, PyTorch, Aurelia
+Tools: Postman, DBeaver, Git, Docker, Kubernetes, Jenkins       Technologies: AWS, Linux, HTML5, SASS, Swagger, SAP PI/PO/CI
+ ..............................................................................................................................
+
+WORK EXPERIENCE
+UNIVERSITY OF FRIBOURG | Unterassistent                                                     Part-time | Aug 2024 – Present
+   • Automated the generation of schemas and OAS 3.0 specification for existing express APIs in MMAR.
+   • Implemented a comprehensive file management along with caching functionality in MMAR.
+   • Added code to support dynamic UI components for table attributes according to metamodel definition. Also, modi-
+     fied the code to support nested table attributes.
+   • Added functionality to import, render, simulate and map attributes of URDF files (robots) in MMAR.
+   • Researched and implemented a POC on migrating Aurelia MDC project from Webpack to Vite.
+   • Added custom functions in VizRep(a domain specific language) to render GLTF and fetch image files based on UUIDs
+     of the files in MMAR.
+   • Performed code refactoring and fixed various frontend & backend bugs in MMAR.
+     Contact: Prof. Dr. Hans-Georg Fill, Professor (Department of Informatics)
+LTM LTD. | Consultant - Package Implementation                                             Full-time | July 2021 - Jan 2024
+  • As a PI/PO developer, created multiple interfaces using REST, IDOC, SFTP, adapters in Carrier ANZ project.
+  • Migrated scenarios (moved interfaces) from NW 7.5 SAP PI split stack system to Java only system in Clarios project.
+  • As part of Clarios AMS team, monitored the existing interfaces and resolved several runtime issues including high
+     and very high priority tickets within the stipulated SLA period.
+  • As a Graduate Engineer Trainee, implemented a few interfaces using SAP Cloud Integration in Practice Unit.
+     Contact: Pravin Vichare, Director (SAP)
+...................................................................................................................
+
+EDUCATION
+Master of Science in Computer Science                                                   Bern, CH | 2024 - Present
+University of Bern
+Grade: 5.5/6.0
+...................................................................................................................
+
+PROJECTS
+INTEGRATING LLMS INTO MODELING PLATFORMS                       TypeScript, Three.js, OpenAI, Node.js, Docker
+Developed and demonstrated a prototype in the MM-AR platform which enables the users to create and modify visual
+models backed by a metamodel incrementally from natural-language prompts. Implemented modified function calling
+approach enhanced with few short examples. Published the research paper as fist author in CEUR-WS.
+IDENTIFICATION OF INSECTS AND PREDICTION OF PESTICIDES  Python, Dart(Flutter), PHP, SQL
+   Built an end-to-end AI-driven pest-management system that detects crop-damaging insects with YOLOv4 and recom-
+mends crop-safe pesticides via a Flutter app. Architected a serverless pipeline on UbiOps + PHP/MariaDB, cutting on-
+device compute needs to zero and achieving ≈95 % mAP on nine insect classes.
+   ................................................................................................................
+
+ACHIEVEMENTS
+   • AWS Certified Solutions Architect Associate                    • 2025 Student Innovation Grants
+   • Business Unit of the Year Award                                • State 4th Rank in 8th Intellectual Olympiad
+   • Best Paper Award
+
