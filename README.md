@@ -1,108 +1,89 @@
-<h1 align="center">Hallo 👋, ich bin <span style="color:#007ACC">Gunakar Challa</span></h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunakarchalla&style=flat-square&color=0d6efd" alt="Profilaufrufe"/>
-  <a href="https://gunakarchalla.github.io/gunakarchalla/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gunakarchalla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gunakarchalla@gmail.com">
-    <img src="https://img.shields.io/badge/E-Mail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# Grüezi 👋
+
+**Portfolio & KI-Assistent:** [gunakar.dev](https://www.gunakar.dev) &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/gunakarchalla](https://www.linkedin.com/in/gunakarchalla)
+
+Ich bin Gunakar, ein Masterstudent der Informatik an der Universität Bern. Ich verfüge über 2,5 Jahre Berufserfahrung in der Industrie und 1,5 Jahre Forschungserfahrung. Ich bin versiert in Anwendungsentwicklung (sowohl Web als auch Mobile), maschinellem Lernen (statistische Modelle und neuronale Netze), Systemdesign (AWS Certified Solutions Architect Associate) und Integration (ehemaliger professioneller SAP PI/PO/CPI-Entwickler). Ich überbrücke Forschung und Softwareentwicklung, um wirkungsvolle Anwendungen für die Praxis zu schaffen.
 
 ---
 
-## 🌟 Über Mich
+## Ausgewählte Projekte & Beiträge
 
-Ich studiere aktuell **M.Sc. Informatik** an der **Universität Bern** (Note: **5.5/6.0**).
-Mein Schwerpunkt liegt an der Schnittstelle von **Enterprise-Integration**, **Web-Entwicklung** und **KI/ML**.
+### KI-Codevervollständigung · FIM-Modell-Forschung
+Proof of Concept, der verschiedene Code-Generierungsstile durch **Präfix- und Suffix-Injektionstechniken** auf Fill-In-the-Middle (FIM)-Modellen demonstriert.
+→ [Auf GitHub ansehen](https://github.com/gunakarchalla/tabby/tree/r0.32)
 
-- **Standort**: Bern, Schweiz
-- **Bewilligung**: B
-- **Leitsatz**: *Neugierig bleiben, kontinuierlich bauen und praxisnahe Probleme lösen.*
+### MMAR — Multi-Model Architecture Repository *(1,5+ Jahre)*
+Vollständige Beiträge im gesamten MMAR-Ökosystem. Frühere Beiträge, die vor der Migration des Projekts von GitLab zu GitHub entstanden sind, werden in den nachfolgenden Links nicht erfasst.
 
----
+| Repository | Beiträge |
+|---|---|
+| [mmar-metamodeling-client](https://github.com/MM-AR/mmar-metamodeling-client) | [Abgeschlossene PRs](https://github.com/MM-AR/mmar-metamodeling-client/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-modeling-client](https://github.com/MM-AR/mmar-modeling-client) | [Abgeschlossene PRs](https://github.com/MM-AR/mmar-modeling-client/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-server](https://github.com/MM-AR/mmar-server) | [Abgeschlossene PRs](https://github.com/MM-AR/mmar-server/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-vizrep-client](https://github.com/MM-AR/mmar-vizrep-client) | [Abgeschlossene PRs](https://github.com/MM-AR/mmar-vizrep-client/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-docker-installation](https://github.com/MM-AR/mmar-docker-installation) | [Abgeschlossene PRs](https://github.com/MM-AR/mmar-docker-installation/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-database](https://github.com/MM-AR/mmar-database) | [Abgeschlossene PRs](https://github.com/MM-AR/mmar-database/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-global-data-structure](https://github.com/MM-AR/mmar-global-data-structure) | [Abgeschlossene PRs](https://github.com/MM-AR/mmar-global-data-structure/pulls?q=is%3Apr+is%3Aclosed) |
 
-## 🚀 Kompetenzen
+### DermaImageRecords — Mobile Bildverwaltungsanwendung für Dermatologie
+Eine mobile App zur Verwaltung und Organisation dermatologischer Bilddatensätze. Die APK-Datei steht im Bereich **Releases** des Repositories zum Download bereit.
+→ [Ansehen & Installieren](https://github.com/gunakarchalla/DermaImageRecords)
 
-| Bereich | Technologien |
-| ------ | ------------ |
-| **Sprachen** | TypeScript/JavaScript, Java, Python, C, C++, SQL |
-| **Frameworks & Libraries** | React, Express, Spring, PyTorch, Aurelia |
-| **Tools** | Postman, DBeaver, Git, Docker, Kubernetes, Jenkins |
-| **Technologien** | AWS, Linux, HTML5, SASS, Swagger, SAP PI/PO/CI |
+### Enhanced Modern Deedy Lebenslauf-Vorlage
+Eine professionelle, einspaltige LaTeX-Lebenslaufvorlage — bereit zum Forken und Anpassen.
+→ [Vorlage forken](https://github.com/gunakarchalla/Enhanced-Modern-Deedy-Single-Column-Resume)
 
----
+### Aurelia 2 + MDC + Vite — Forschungs-Webanwendung
+Forschungs- und Proof-of-Concept-Webanwendung, entwickelt mit **Aurelia 2**, **Material Design Components (MDC)** und **Vite**.
+→ [Auf GitHub ansehen](https://github.com/gunakarchalla/Aurelia-2-Project-with-Aurelia-MDC-running-on-Vite)
 
-## 🏢 Berufserfahrung
+### Paralleler Mandelbrot-Renderer
+Eine Multithread-Implementierung zur deutlichen Beschleunigung des Renderings der Mandelbrot-Menge.
+→ [Auf GitHub ansehen](https://github.com/gunakarchalla/Parallel-Mandelbrot-Set-Renderer)
 
-### Universität Fribourg | Unterassistent (Teilzeit)
-**Aug 2024 – Heute**
 
-- Automatisierung der Schema-Generierung und OAS-3.0-Spezifikation für bestehende Express-APIs in MMAR.
-- Umsetzung eines umfassenden Dateimanagements inklusive Caching in MMAR.
-- Entwicklung dynamischer UI-Komponenten für Tabellenattribute gemäß Metamodell; Erweiterung um verschachtelte Tabellenattribute.
-- Implementierung von Funktionen zum Importieren, Rendern, Simulieren und Mapping von URDF-Dateiattributen (Roboter) in MMAR.
-- Durchführung eines POC zur Migration eines Aurelia-MDC-Projekts von Webpack auf Vite.
-- Erweiterung von VizRep (DSL) um Funktionen zum Rendern von GLTF-Dateien und Abrufen von Bildern über UUIDs in MMAR.
-- Refactoring sowie Behebung verschiedener Frontend- und Backend-Fehler.
+___
 
-### LTM Ltd. | Consultant - Package Implementation (Vollzeit)
-**Jul 2021 – Jan 2024**
 
-- Entwicklung mehrerer PI/PO-Schnittstellen mit REST-, IDOC- und SFTP-Adaptern im Carrier-ANZ-Projekt.
-- Migration von Schnittstellen aus einem NW-7.5-SAP-PI-Split-Stack-System auf ein reines Java-System im Clarios-Projekt.
-- Monitoring bestehender Schnittstellen im Clarios-AMS-Team und Lösung mehrerer Laufzeitprobleme, einschließlich High- und Very-High-Priority-Tickets innerhalb der SLA-Zeiten.
-- Umsetzung zusätzlicher Schnittstellen mit SAP Cloud Integration als Graduate Engineer Trainee.
+# Hi 👋
 
----
+**Portfolio & AI Assistant:** [gunakar.dev](https://www.gunakar.dev) &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/gunakarchalla](https://www.linkedin.com/in/gunakarchalla)
 
-## 📚 Ausbildung
-
-- **Master of Science in Computer Science**, Universität Bern, Bern CH (**2024 – Heute**)
-- **B.Tech in Computer Science and Engineering**, National Institute of Technology Manipur (**2017 – 2021**)
+I am Gunakar, a computer science masters student at University of Bern. I have 2.5 years of industry experience and 1.5 years of research experience. I am proficient in application development (both web and mobile), machine learning (statistical models and neural networks), system design (AWS Certified Solutions Achitect Associate) and integration (former professional SAP PI/PO/CPI developer). I bridge research and software engineering to make impactful real-world applications.
 
 ---
 
-## 💡 Projekte
+## Featured Projects & Contributions
 
-| Projekt | Stack | Beschreibung |
-| ------- | ----- | ------------ |
-| **Integrating LLMs into Modeling Platforms** | TypeScript, Three.js, OpenAI, Node.js, Docker | Entwicklung und Demonstration eines Prototyps in der MM-AR-Plattform, mit dem Benutzer visuelle Modelle schrittweise per natürlicher Sprache erstellen und ändern können. Umsetzung eines angepassten Function-Calling-Ansatzes mit wenigen Beispiel-Prompts. Veröffentlichung als Erstautor in CEUR-WS. |
-| **Identification of Insects and Prediction of Pesticides** [:arrow_upper_right: Repo](https://github.com/gunakarchalla/Identification-of-Insects-and-Pesticide-Recommendation-using-Deep-Learning) | Python, Dart (Flutter), PHP, SQL | End-to-End KI-System zur Erkennung schädlicher Insekten mit YOLOv4 und Empfehlung geeigneter Pestizide per Flutter-App. Architektur mit serverloser UbiOps + PHP/MariaDB-Pipeline; Reduktion von On-Device-Berechnung auf null und Erreichen von ca. 95 % mAP auf neun Klassen. |
+### AI Code Completion · FIM Model Research
+Proof of concept demonstrating multiple code generation styles using **prefix & suffix injection techniques** on Fill-In-the-Middle (FIM) models.
+→ [View on GitHub](https://github.com/gunakarchalla/tabby/tree/r0.32)
 
----
+### MMAR — Multi-Model Architecture Repository *(1.5+ years)*
+Full-stack contributions across the MMAR ecosystem. Additional early contributions predate the project's migration from GitLab to GitHub and are not reflected in the links below.
 
-## 🏆 Erfolge & Zertifizierungen
+| Repository | Contributions |
+|---|---|
+| [mmar-metamodeling-client](https://github.com/MM-AR/mmar-metamodeling-client) | [Closed PRs](https://github.com/MM-AR/mmar-metamodeling-client/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-modeling-client](https://github.com/MM-AR/mmar-modeling-client) | [Closed PRs](https://github.com/MM-AR/mmar-modeling-client/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-server](https://github.com/MM-AR/mmar-server) | [Closed PRs](https://github.com/MM-AR/mmar-server/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-vizrep-client](https://github.com/MM-AR/mmar-vizrep-client) | [Closed PRs](https://github.com/MM-AR/mmar-vizrep-client/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-docker-installation](https://github.com/MM-AR/mmar-docker-installation) | [Closed PRs](https://github.com/MM-AR/mmar-docker-installation/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-database](https://github.com/MM-AR/mmar-database) | [Closed PRs](https://github.com/MM-AR/mmar-database/pulls?q=is%3Apr+is%3Aclosed) |
+| [mmar-global-data-structure](https://github.com/MM-AR/mmar-global-data-structure) | [Closed PRs](https://github.com/MM-AR/mmar-global-data-structure/pulls?q=is%3Apr+is%3Aclosed) |
 
-- **AWS Certified Solutions Architect - Associate**
-- **2025 Student Innovation Grants**
-- **Business Unit of the Year Award**
-- **Best Paper Award**
-- **State 4th Rank in 8th Intellectual Olympiad**
+### DermaImageRecords — Mobile Medical Image Management App
+A mobile application for managing and organizing dermatological image records. The APK is available for direct download in the **Releases** section of the repository.
+→ [View & Install](https://github.com/gunakarchalla/DermaImageRecords)
 
----
+### Enhanced Modern Deedy Resume Template
+A refined, single-column LaTeX résumé template ready to fork and personalize.
+→ [Fork the Template](https://github.com/gunakarchalla/Enhanced-Modern-Deedy-Single-Column-Resume)
 
-## 📈 GitHub-Statistiken
+### Aurelia 2 + MDC + Vite — Research Web Application
+Research and proof-of-concept web application built with **Aurelia 2**, **Material Design Components (MDC)**, and **Vite**.
+→ [View on GitHub](https://github.com/gunakarchalla/Aurelia-2-Project-with-Aurelia-MDC-running-on-Vite)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunakarchalla&show_icons=true&hide=stars&theme=transparent" alt="GitHub Statistiken" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunakarchalla&layout=compact&hide=jupyter%20notebook&theme=transparent" alt="Top Programmiersprachen" />
-</p>
-
----
-
-## 🤝 Kontakt
-
-- 🌐 **Website**: <https://gunakarchalla.github.io/gunakarchalla/>
-- 💼 **LinkedIn**: <https://www.linkedin.com/in/gunakarchalla/>
-- 📫 **E-Mail**: <gunakarchalla@gmail.com>
-- 📰 **ResearchGate**: <https://www.researchgate.net/profile/Gunakar-Challa>
-- 📱 **Mobil**: +41-795557687
-
----
-
-*Mehr Details findest du in meinem [Lebenslauf](./Gunakar_Challa_Resume.pdf).* 
+### Parallel Mandelbrot Set Renderer
+A multi-threaded implementation designed to significantly accelerate rendering of the Mandelbrot Set.
+→ [View on GitHub](https://github.com/gunakarchalla/Parallel-Mandelbrot-Set-Renderer)
