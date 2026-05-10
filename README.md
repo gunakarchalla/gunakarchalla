@@ -2,7 +2,7 @@
 
 **Portfolio & KI-Assistent:** [gunakar.dev](https://www.gunakar.dev) &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/gunakarchalla](https://www.linkedin.com/in/gunakarchalla)
 
-Ich bin Gunakar, ein Masterstudent der Informatik an der Universität Bern. Ich verfüge über 2,5 Jahre Berufserfahrung in der Industrie und 1,5 Jahre Forschungserfahrung. Ich bin versiert in Anwendungsentwicklung (sowohl Web als auch Mobile), maschinellem Lernen (statistische Modelle und neuronale Netze), Systemdesign (AWS Certified Solutions Architect Associate) und Integration (ehemaliger professioneller SAP PI/PO/CPI-Entwickler). Ich überbrücke Forschung und Softwareentwicklung, um wirkungsvolle Anwendungen für die Praxis zu schaffen.
+Ich bin Gunakar, Ich bin Gunakar Challa, ein Unterassistent an der Universität Freiburg. Ich verfüge über 2,5 Jahre Berufserfahrung in der Industrie und 1,5 Jahre Forschungserfahrung. Ich bin versiert in angewandter KI (2 Veröffentlichungen & aktive Forschung), Softwareentwicklung (sowohl Web als auch mobile), maschinellem Lernen (statistische Modelle und neuronale Netze), Systemdesign (AWS Certified Solutions Architect Associate) und Integration (ehemaliger professioneller SAP PI/PO/CPI-Entwickler). Ich überbrücke Forschung und Softwareentwicklung, um wirkungsvolle Anwendungen für die Praxis zu schaffen.
 
 ---
 
@@ -49,7 +49,7 @@ ___
 
 **Portfolio & AI Assistant:** [gunakar.dev](https://www.gunakar.dev) &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/gunakarchalla](https://www.linkedin.com/in/gunakarchalla)
 
-I am Gunakar, a computer science masters student at University of Bern. I have 2.5 years of industry experience and 1.5 years of research experience. I am proficient in application development (both web and mobile), machine learning (statistical models and neural networks), system design (AWS Certified Solutions Achitect Associate) and integration (former professional SAP PI/PO/CPI developer). I bridge research and software engineering to make impactful real-world applications.
+I am Gunakar, a sub-assistant working at University of Fribourg. I have 2.5 years of industry experience and 1.5 years of research experience. I am proficient in applied AI (2 publications & active research), software development (both web and mobile), machine learning (statistical models and neural networks), system design (AWS Certified Solutions Achitect Associate) and integration (former professional SAP PI/PO/CPI developer). I bridge research and software engineering to make impactful real-world applications.
 
 ---
 
