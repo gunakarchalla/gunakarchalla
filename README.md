@@ -12,7 +12,7 @@ Ich bin Gunakar, Ich bin Gunakar Challa, ein Unterassistent an der Universität 
 Proof of Concept, der verschiedene Code-Generierungsstile durch **Präfix- und Suffix-Injektionstechniken** auf Fill-In-the-Middle (FIM)-Modellen demonstriert.
 → [Auf GitHub ansehen](https://github.com/gunakarchalla/tabby/tree/r0.32)
 
-### MMAR — Multi-Model Architecture Repository *(1,5+ Jahre)*
+### MMAR — Metamodellierungsplattform *(1,5+ Jahre)*
 Vollständige Beiträge im gesamten MMAR-Ökosystem. Frühere Beiträge, die vor der Migration des Projekts von GitLab zu GitHub entstanden sind, werden in den nachfolgenden Links nicht erfasst.
 
 | Repository | Beiträge |
@@ -59,7 +59,7 @@ I am Gunakar, a sub-assistant working at University of Fribourg. I have 2.5 year
 Proof of concept demonstrating multiple code generation styles using **prefix & suffix injection techniques** on Fill-In-the-Middle (FIM) models.
 → [View on GitHub](https://github.com/gunakarchalla/tabby/tree/r0.32)
 
-### MMAR — Multi-Model Architecture Repository *(1.5+ years)*
+### MMAR — Metamodeling Platform *(1.5+ years)*
 Full-stack contributions across the MMAR ecosystem. Additional early contributions predate the project's migration from GitLab to GitHub and are not reflected in the links below.
 
 | Repository | Contributions |
